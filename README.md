@@ -1,2 +1,2 @@
 # xlion-blog-discussion
-Use Giscus as XLion Blog's comment system
+Use [Giscus](https://github.com/giscus/giscus) as XLion Blog's comment system.
